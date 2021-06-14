@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "moment": "^2.29.1",
     "mongodb": "^3.6.9",
     "next": "latest",
     "next-auth": "^3.25.0",
